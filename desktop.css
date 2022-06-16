@@ -1,4 +1,4 @@
-.project_title1 h2 {
+.project_title {
   width: 496px;
   height: 46px;
   left: 590px;
@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 52px;
   color: #091e42;
 }
@@ -24,7 +24,7 @@
   border-radius: 8px;
 }
 
-.client_card1 {
+.client_details {
   display: flex;
   flex-direction: row;
   align-items: baseline;
@@ -36,8 +36,16 @@
   height: 30px;
   margin: 12px 0;
 }
+.client-name{
+  font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+color: #344563;
+}
 
-.role-card1 {
+.role-card {
   display: flex;
   flex-direction: column;
   font-style: normal;
@@ -50,7 +58,7 @@
   color: #6b778c;
 }
 
-.categories_card1 {
+.categories_card {
   display: flex;
   flex-direction: row;
   padding: 0;
