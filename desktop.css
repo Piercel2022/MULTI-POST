@@ -36,13 +36,14 @@
   height: 30px;
   margin: 12px 0;
 }
-.client-name{
-  font-family: 'Poppins',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 20px;
-color: #344563;
+
+.client-name {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #344563;
 }
 
 .role-card {
