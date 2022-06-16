@@ -8,12 +8,12 @@
 }
 
 .project_title {
-  width: 259px;
+  width: 299px;
   height: 36px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 40px;
   color: #172b4d;
 }
@@ -30,7 +30,7 @@
   align-items: baseline;
   justify-content: flex-start;
   position: absolute;
-  top: 90px;
+  top: 70px;
   list-style-type: none;
   gap: 15px;
   padding: 0;
